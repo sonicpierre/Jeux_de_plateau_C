@@ -1,0 +1,13 @@
+Autheur VIRGAUX Pierre
+
+Tout d'abord installer les bibliothèques : make bibli
+Pour compiler : make
+Pour exécuter : ./prog
+
+Pour se déplacer on utilisera les flèches.
+On peut mettre 0 joueurs humains alors les bots joueront ensemble.
+Pensez à mettre le son !!
+
+But du jeux :
+On place un pion à chaque tour on se déplace d'une case et on en rend une inaccessible,
+il faut bloquer l'adversaire.
