@@ -4,9 +4,12 @@ Il s'agit d'un jeux tour par tour sur plateau où le but est d'isoler le joueur 
 
 ## Choix du jeux
 
-<img src="image_readme/menu.png" width="350">
+<p align="center">
+  <img src="image_readme/menu.png" width="350">
+</p>
 
 ## Le plateau de jeux
 
-
-<img src="image_readme/jeux_en_cours.png" width="350">
+<p align="center">
+  <img src="image_readme/jeux_en_cours.png" width="350">
+</p>
