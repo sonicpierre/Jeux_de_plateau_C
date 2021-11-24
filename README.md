@@ -7,3 +7,6 @@ Il s'agit d'un jeux tour par tour sur plateau où le but est d'isoler le joueur 
 <img src="image_readme/menu.png" width="350">
 
 ## Le plateau de jeux
+
+
+<img src="image_readme/jeux_en_cours.png" width="350">
