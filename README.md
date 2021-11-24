@@ -4,6 +4,6 @@ Il s'agit d'un jeux tour par tour sur plateau où le but est d'isoler le joueur 
 
 ## Choix du jeux
 
-<img src="image_readme/menu.png" width="150">
+<img src="image_readme/menu.png" width="350">
 
 ## Le plateau de jeux
